@@ -3,8 +3,8 @@ An overview of the steps involved in performing data modeling with Postgres, cre
 a. Define Schema:
 * Identify the entities and their relationships within Sparkify's data (e.g., songs, artists, users, time, and songplays).<br>
 * Create a logical schema that represents these entities and relationships. For instance:<br>
-   *  songs table
-    artists table
-    users table
-    time table
-    songplays fact table
+     * `songs table`
+     * `artists table`
+     * `users table`
+     * `time table`
+     * `songplays fact table`
