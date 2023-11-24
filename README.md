@@ -8,8 +8,8 @@ An overview of the steps involved in performing data modeling with Postgres, cre
      * `users table`
      * `timetable`
      * `songplays fact table`
-2. Creating a Star Schema Database:
-a. Implement Star Schema:
+2. Creating a Star Schema Database: <br>
+a. Implement Star Schema:<br>
 Transform the logical schema into a star schema design where a central fact table (e.g., songplays) is surrounded by dimension tables (e.g., `songs`, `artists`, `users`, `time`).
 Connect dimension tables to the fact table using foreign keys.
 Ensure denormalization in dimension tables for easier querying and analysis.
