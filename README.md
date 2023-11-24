@@ -1,9 +1,9 @@
 # Data Modeling with Postgres
 #### What is data modeling?
-Data modeling is the process of creating a visual representation of either a whole information system or parts of it to communicate connections between data points and structures. The goal is to illustrate the types of data used and stored within the system, the relationships among these data types, the ways the data can be grouped and organized, and its formats and attributes. <be>
+Data modeling is the process of creating a visual representation of either a whole information system or parts of it to communicate connections between data points and structures. The goal is to illustrate the types of data used and stored within the system, the relationships among these data types, the ways the data can be grouped and organized, and its formats and attributes. <br>
 
 #### What is PostgreSQL?
-PostgreSQL is a powerful, open-source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance. <be>
+PostgreSQL is a powerful, open-source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance. <br>
 
 ####Overview of the project
 An overview of the steps involved in performing data modeling with Postgres, creating a star schema database, and building an ETL (Extract, Transform, Load) pipeline using Python for Sparkify. <br>
