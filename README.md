@@ -20,3 +20,6 @@ a. Implement Star Schema:<br>
 Transform the logical schema into a star schema design where a central fact table (e.g., songplays) is surrounded by dimension tables (e.g., `songs`, `artists`, `users`, `time`).
 Connect dimension tables to the fact table using foreign keys.
 Ensure denormalization in dimension tables for easier querying and analysis.
+
+#### Dataset
+The file name, mini_sparkify_event_data.json, will be loaded and cleaned such as handling invalid or missing values.
