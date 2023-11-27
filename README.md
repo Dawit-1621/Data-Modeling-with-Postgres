@@ -5,6 +5,7 @@ Data modeling is the process of creating a visual representation of either a who
 #### What is PostgreSQL?
 PostgreSQL is a powerful, open-source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance. <br>
 
+
 #### Overview of the project
 An overview of the steps involved in performing data modeling with Postgres, creating a star schema database, and building an ETL (Extract, Transform, Load) pipeline using Python for Sparkify. <br>
 1. Define Schema:
